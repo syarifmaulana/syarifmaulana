@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @syarifmaulana
 - 🌱 Currently I am learning DataAnalytics with #Python.
-- 👀 I’m interested in Data, Python, Machine Learning, Ubuntu.
+- 👀 I’m interested in Data, Python, Machine Learning, Ubuntu. I am also taking some online courses.
 
-## 🔍 You Can Find Me at
+### 🔍 You Can Find Me at
 
 <p>
   <a href="https://www.linkedin.com/in/syarifmaulana" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
