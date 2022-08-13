@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syarifmaulana
-- 🌱 Currently I am learning:
--     DataAnalytics with #Python.
--     BackEnd with #JavaScript.
+- 🌱 Currently I am learning: 
+     1. DataAnalytics with #Python,
+     2. BackEnd with #JavaScript.
 - 👀 I’m interested in Data, Python, BackEnd System. I am also taking some online courses.
 
 ### 🔍 You Can Find Me at
